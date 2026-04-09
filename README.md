@@ -94,7 +94,7 @@ project-root/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/fatigue-system.git
+git clone https://github.com/Chandanac52/fatigue-system.git
 cd fatigue-system
 ```
 
