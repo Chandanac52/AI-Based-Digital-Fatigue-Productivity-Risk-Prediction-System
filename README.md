@@ -6,7 +6,7 @@ The AI-Based Digital Fatigue & Productivity Risk Prediction System is a full-sta
 
 The system provides real-time insights, alerts, and recommendations to help users improve productivity and maintain healthy digital habits.
 
-
+---
 
 ## Key Features
 
@@ -19,7 +19,7 @@ The system provides real-time insights, alerts, and recommendations to help user
 * Smart Alerts and Recommendations
 * Scalable Cloud-Ready Architecture
 
-
+---
 
 ## System Architecture
 
@@ -29,7 +29,7 @@ The system follows a Three-Tier Architecture:
 * Application Layer: FastAPI Backend
 * Data Layer: MongoDB Database
 
-
+---
 
 ## Modules
 
@@ -42,7 +42,7 @@ The system follows a Three-Tier Architecture:
 * Alerts Module – Generates notifications
 * Database Module – Stores system data
 
-
+---
 
 ## Tech Stack
 
@@ -65,11 +65,11 @@ The system follows a Three-Tier Architecture:
 * Scikit-learn
 * Pandas, NumPy
 
-
+---
 
 ## Project Structure
 
-
+```
 project-root/
 │── backend/
 │   ├── routes/
@@ -87,7 +87,7 @@ project-root/
 │── README.md
 ```
 
-
+---
 
 ## Installation and Setup
 
@@ -114,7 +114,7 @@ flutter pub get
 flutter run
 ```
 
-
+---
 
 ## API Endpoints (Sample)
 
@@ -125,7 +125,7 @@ flutter run
 * GET /dashboard – Fetch insights
 * GET /predict – Get fatigue prediction
 
-
+---
 
 ## How It Works
 
@@ -136,7 +136,7 @@ flutter run
 5. Results are displayed on the dashboard
 6. Alerts and recommendations are generated
 
-
+---
 
 ## Security Features
 
@@ -145,7 +145,7 @@ flutter run
 * Secure API endpoints
 * Data privacy controls
 
-
+---
 
 ## Future Enhancements
 
@@ -154,12 +154,11 @@ flutter run
 * Personalized recommendations
 * Cross-platform expansion
 
-
+---
 
 ## Contributors
 
 Rachabattuni Sai Sindhu
-Reddy Akkamma Chandana
 
 ---
 
